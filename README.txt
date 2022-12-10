@@ -12,4 +12,4 @@ If you are reading this, you presumably already know how to do this, but good pr
 		java -jar Song.jar
 
 This code has been tested in Visual Studio 2022 as well as on the Tesla BASH command line. 
-If you have any errors or missing files, please contact me at dkruze@iu.edu ASAP.
+If you have any errors or missing files, please empty your directory of all files you downloaded and grab everything from this repository over again.
