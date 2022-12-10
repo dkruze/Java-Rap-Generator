@@ -1,0 +1,2 @@
+Clear-path: .
+Main-class: Song
